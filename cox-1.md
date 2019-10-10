@@ -2,6 +2,17 @@ https://github.com/awchmt/Assignment-2/blob/master/Project%202%20Submission%20Do
 
 # To Do List:
 
+### Back log
+    create database schema
+    build database methods
+    build simple web UI
+    server configuration
+    Web server
+    Initial classes for managing logic
+    Make ER diagram for student/TA/Instructor classes
+    Define methods users will need to use
+    Create full web layout
+
 ### Create Classes
     Students
     Teacher Assistants
